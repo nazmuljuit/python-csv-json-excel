@@ -17,9 +17,9 @@ Please change the number after pip to reflect the version of Python you are usin
 
 Starting Jupyter
 
-After a successful installation you can start Jupyter Notebook by running the command below from your terminal:
+# After a successful installation you can start Jupyter Notebook by running the command below from your terminal:
 
-jupyter notebook
+jupyter notebook or python -m notebook
 
 If the above command does not work try the following command:
 
